@@ -6,15 +6,19 @@
 	margin-top: 15px;
 	margin-bottom: 15px;
 	font-size: 100px;
-	font-weight: bold;
+	font-weight: 900;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	text-transform: uppercase;
 	display: flex;
 	justify-content: center;
+	background: linear-gradient(0deg, rgb(123, 0, 238) 0%, rgb(160, 2, 251) 100%);
+	color:rgb(206, 181, 255);
+	filter: drop-shadow(6px 4px 2px #613583);
 }
 
 .container_menutitle > hr {
 	margin-top: 20px;
 	margin-bottom: 5px;
+	color: rebeccapurple;
 }
 
