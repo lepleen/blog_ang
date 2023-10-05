@@ -1,11 +1,14 @@
 .container_smallCard {
 	width: 700px;
 	margin-bottom: 15px;
+	background-color: rgba(0, 0, 0, 0.199);
+
 }
 
 .container_smallCardContent {
 	display: flex;
 	flex-direction: row;
+
 }
 
 .smallcard_photo > img {
@@ -15,9 +18,10 @@
 }
 
 .smallcard_title {
-	display: flex;
+	/* display: flex; */
 	align-items: center;
 	justify-content: center;
+
 }
 
 .container_smallCardSeparator {

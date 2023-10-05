@@ -7,6 +7,7 @@
 	align-items: flex-start;
 	flex-direction: column;
 	justify-content: flex-start;
+	background-color: rgba(0, 0, 0, 0.199);
 }
 
 .bigcard_title > h1 {
@@ -15,6 +16,7 @@
 
 .bigcard_title > p {
 	color: gray;
+
 }
 
 
@@ -29,14 +31,15 @@
 
 .bigcard_descript > p {
 	margin-top: 10px;
+
 }
 
 .bigcard_descript > p > a {
 	color: gray;
+
 }
 
 .bigcard_photo > img {
 	width: 100%;
-	min-width: 600px;
 
 }
